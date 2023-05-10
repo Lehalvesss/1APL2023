@@ -2,3 +2,4 @@
 # Leticia de Lima Alves
 ## pensamento computacional
 - Colégio Paulo Leminski
+- **Professora Drielle**
